@@ -5,7 +5,7 @@
 
 🌱 Continuous Learner always exploring new technologies and improving skills.
 
-🎨 UI/UX Enthusiast focused on creating intuitive and visually appealing designs.
+🎨 Frontend Developer creating intuitive and visually appealing user interfaces.
 
 🔧 Full-Stack Developer skilled in HTML, CSS, JavaScript, Python, Django, SQL, DS.
 
@@ -15,7 +15,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,php,mysql,html,css,bootstrap,git,github,figma,ai,vscode&perline=11" />
+    <img src="https://skillicons.dev/icons?i=js,py,sql,html,css,bootstrap,github,DS,figma,vscode&perline=11" />
   </a>
 </p>
 
